@@ -1,0 +1,23 @@
+{
+  "name": "ngx-headroom",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^8.1.3",
+    "@angular/core": "^8.1.3",
+    "headroom.js": "^0.10.3"
+  },
+  "author": "Akash Gupta <akash@adias.tech> (https://adias.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techaks/ngx-icon-pickr/issues"
+  },
+  "homepage": "https://github.com/techaks/ngx-icon-pickr#readme",
+  "keywords": [
+    "ngx-headroom",
+    "headroom",
+    "headroom.js",
+    "Angular headroom.js",
+    "Auto Hide header",
+    "Auto Hide header on Scroll"
+  ]
+}
