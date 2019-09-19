@@ -156,8 +156,8 @@ Use `Ngxheadroom` selector to select the element.
 
 The following methods are available to be called on a headroom instance:
 
-1 - destroy(): destroy the headroom instance, removing event listeners and any classes added
-2 - pin(): forcibly set the headroom instance's state to pinned
-3 - unpin(): forcibly set the headroom instance's state to unpinned
-4 - freeze(): freeze the headroom instance's state (pinned or unpinned), and no longer respond to scroll events.
-5 - unfreeze(): resume responding to scroll events
+- destroy(): destroy the headroom instance, removing event listeners and any classes added
+- pin(): forcibly set the headroom instance's state to pinned
+- unpin(): forcibly set the headroom instance's state to unpinned
+- freeze(): freeze the headroom instance's state (pinned or unpinned), and no longer respond to scroll events.
+- unfreeze(): resume responding to scroll events
