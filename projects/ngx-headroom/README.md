@@ -4,6 +4,8 @@ NgxHeadroom is a lightweight, high-performance widget (with no dependencies) tha
 
 # Playground
 
+To check and play with NgxHeadroom => https://ngx-headroom.stackblitz.io
+
 To play More ==>
 https://wicky.nillia.ms/headroom.js/playroom/
 
@@ -16,6 +18,26 @@ Large screens are usually landscape-oriented, meaning less vertical than horizon
 Headroom.js allows you to bring elements into view when appropriate, and give focus to your content the rest of the time.
 
 # Prerequisites
+
+NgxHeadroom will work in angular projects.
+
+# Requirements
+
+Your div must be fixed somewhere to use NgxHeadroom.
+
+```css
+.header--fixed {
+  position: fixed;
+}
+```
+
+OR
+
+```css
+.header--fixed {
+  position: sticky;
+}
+```
 
 NgxHeadroom will work in angular projects.
 
