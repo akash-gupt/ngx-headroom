@@ -5,7 +5,9 @@ NgxHeadroom is a lightweight, high-performance widget (with no dependencies) tha
 # Playground
 
 To check and play with NgxHeadroom
+
 EDITOR URL ==> https://stackblitz.com/edit/ngx-headroom
+
 APP URL => https://ngx-headroom.stackblitz.io
 
 To play More ==>
